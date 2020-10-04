@@ -1,0 +1,22 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto compartido de JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachomallavia/ejercicioGIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nachomallavia/ejercicioGIT/issues"
+  },
+  "homepage": "https://github.com/nachomallavia/ejercicioGIT#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
